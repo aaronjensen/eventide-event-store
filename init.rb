@@ -1,3 +1,3 @@
-require_relative './load_path'
+require_relative "./load_path"
 
-require 'eventide/event_store'
+require "eventide/event_store"
